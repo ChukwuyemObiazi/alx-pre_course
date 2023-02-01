@@ -1,0 +1,1 @@
+git chechout master > git pull; then git checkout update_script > git merge master;

@@ -1,1 +1,1 @@
-Getting started on alx
+ALX project, united the two branches
